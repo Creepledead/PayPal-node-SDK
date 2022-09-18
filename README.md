@@ -1,3 +1,6 @@
+https://developer.paypal.com/docs/api/transaction-search/v1/
+https://github.com/benbucksch/PayPal-node-SDK
+
 # PayPal Node SDK
 
 NPM status:
